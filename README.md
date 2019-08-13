@@ -80,7 +80,7 @@ With the coverage
 npm run coverage
 ```
 
-The latest coverage result may be found [here](https://mtpelerin.github.io/MtPelerin-protocol/coverage/)
+The latest coverage result may be found [here](https://sirhill.github.io/MtPelerin-protocol/coverage/)
 
 #### Running the console
 
